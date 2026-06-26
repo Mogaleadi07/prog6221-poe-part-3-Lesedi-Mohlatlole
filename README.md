@@ -256,41 +256,11 @@ Important Configuration Notes:
    - Activity logs grow over time; consider archiving old logs
    - Quiz questions are stored in ResponseHandler.cs
 
-Troubleshooting:
 
-Problem: Database Connection Error
-Solution:
-1. Verify SQL Server is running
-2. Check connection string in ChatBot.cs
-3. Ensure TaskHelper and ActivityLog tables exist
-
-Problem: "Audio file not found"
-Solution:
-1. Place greetingAudio.wav in bin/Debug/net10.0-windows folder
-2. Or disable audio greeting if not needed
-
-Problem: Tasks not appearing
-Solution:
-1. Click "Refresh Tasks" button
-2. Verify database connection
-3. Check that TaskHelper table has data
-
-Problem: Application crashes on startup
-Solution:
-1. Rebuild the project (Ctrl+Shift+B)
-2. Check for any compilation errors
-3. Verify all dependencies are installed
 
 VIDEO PRESENTATION
 
-[Insert Video Presentation Link Here]
 
-If available, the video includes:
-- Project demonstration walkthrough
-- Feature showcase video
-- Database setup tutorial
-- NLP simulation explanation
-- Quiz feature demonstration
 
 PROJECT STRUCTURE
 
@@ -313,39 +283,6 @@ CypherSenseBotPart2/
 │   └── Task1.sqlproj
 └── CypherSenseBotPart2.slnx    # Solution file
 
-QUICK START CHECKLIST
 
-- Install Visual Studio 2022 or later
-- Install .NET 10.0 SDK
-- Install SQL Server (LocalDB/Express/Full)
-- Clone/Extract the project
-- Create Task1 database in SQL Server
-- Run TaskHelper.sql to create tables
-- Update connection string if needed
-- Build the solution
-- Run the application (F5)
-- Enter your username when prompted
-- Start chatting with CypherSenseBot!
 
-SUPPORT AND CONTRIBUTION
 
-For issues, feature requests, or contributions:
-1. Check the troubleshooting section above
-2. Review the activity logs for error details
-3. Ensure all prerequisites are installed
-4. Verify database setup is correct
-
-LICENSE
-
-Specify your project license here - MIT, Apache 2.0, etc.
-
-CONTACT
-
-For questions or support regarding CypherSenseBot:
-- Developer: [Your Name/Organization]
-- Email: [Your Email]
-- Repository: [GitHub Link if applicable]
-
-Version: 2.0
-Last Updated: June 2024
-Status: Active Development
