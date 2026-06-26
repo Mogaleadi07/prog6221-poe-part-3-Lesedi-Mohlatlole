@@ -254,7 +254,7 @@ Important Configuration Notes:
 5. Performance Considerations
    - Large task lists (500+) may take time to load
    - Activity logs grow over time; consider archiving old logs
-   - Quiz questions are stored in ResponseHandler.cs
+   - NLP methods are stored in ResponseHandler.cs
 
 VIDEO PRESENTATION LINK
 https://youtu.be/7yAay3r_h4w  
