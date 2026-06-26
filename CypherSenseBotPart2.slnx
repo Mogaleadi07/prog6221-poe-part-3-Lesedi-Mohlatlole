@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="CypherSenseBotPart2/CypherSenseBotPart2.csproj" />
+  <Project Path="Task1/Task1.sqlproj" Id="ffd1ddd5-69ba-4560-a52a-1d715be43458">
+    <Build />
+    <Deploy />
+  </Project>
+</Solution>

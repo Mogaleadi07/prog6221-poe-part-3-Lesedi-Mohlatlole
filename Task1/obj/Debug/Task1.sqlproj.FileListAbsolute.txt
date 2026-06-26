@@ -1,0 +1,6 @@
+C:\Users\Lesedi\source\repos\CypherSenseBotPart2\Task1\bin\Debug\Task1.dacpac
+C:\Users\Lesedi\source\repos\CypherSenseBotPart2\Task1\bin\Debug\Task1.dll
+C:\Users\Lesedi\source\repos\CypherSenseBotPart2\Task1\bin\Debug\Task1.pdb
+C:\Users\Lesedi\source\repos\CypherSenseBotPart2\Task1\obj\Debug\Task1.sqlproj.AssemblyReference.cache
+C:\Users\Lesedi\source\repos\CypherSenseBotPart2\Task1\obj\Debug\Task1.dll
+C:\Users\Lesedi\source\repos\CypherSenseBotPart2\Task1\obj\Debug\Task1.pdb
