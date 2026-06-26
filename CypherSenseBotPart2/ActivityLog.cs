@@ -6,6 +6,7 @@ namespace CypherSenseBotPart2
 {
     public class ActivityLogger
     {
+        //the activity logger checks the log entries by using the fields:
         public string Action { get; set; }
         public string Description { get; set; }
         public DateTime TimeStamp { get; set; }
