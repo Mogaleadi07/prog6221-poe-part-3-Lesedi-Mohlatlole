@@ -256,32 +256,12 @@ Important Configuration Notes:
    - Activity logs grow over time; consider archiving old logs
    - Quiz questions are stored in ResponseHandler.cs
 
+VIDEO PRESENTATION LINK
+https://youtu.be/7yAay3r_h4w  
 
 
-VIDEO PRESENTATION
 
 
-
-PROJECT STRUCTURE
-
-CypherSenseBotPart2/
-├── CypherSenseBotPart2/
-│   ├── Form1.cs                 # Main UI form
-│   ├── ChatBot.cs               # Core chatbot logic
-│   ├── TaskAssistant.cs         # Task management
-│   ├── CyberQuiz.cs             # Quiz functionality
-│   ├── ActivityLog.cs           # Activity logging
-│   ├── ResponseHandler.cs       # NLP response generation
-│   ├── Sentiment.cs             # Sentiment analysis
-│   ├── Memory.cs                # Bot memory/context
-│   ├── VoiceGreeting.cs         # Audio greeting
-│   ├── AsciiIArt.cs             # ASCII art display
-│   ├── Program.cs               # Application entry point
-│   └── CypherSenseBotPart2.csproj
-├── Task1/                       # SQL Server project
-│   ├── TaskHelper.sql           # Task table schema
-│   └── Task1.sqlproj
-└── CypherSenseBotPart2.slnx    # Solution file
 
 
 
