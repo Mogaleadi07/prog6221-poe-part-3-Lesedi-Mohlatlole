@@ -1,7 +1,7 @@
 CypherSenseBot
 
 PROJECT NAME
-CypherSenseBot - An Advanced AI-Powered Chatbot with Integrated Task Management and Cybersecurity Learning
+CypherSenseBot - An AI-Powered Chatbot with Integrated Task Management and Cybersecurity Learning
 
 BRIEF DESCRIPTION
 CypherSenseBot is an intelligent Windows-based chatbot application designed to assist users with conversational AI, task management, cybersecurity knowledge, and learning through interactive quizzes. The bot combines Natural Language Processing (NLP) simulation, sentiment analysis, and a user-friendly interface to provide an engaging and productive experience.
